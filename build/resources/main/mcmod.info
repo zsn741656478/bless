@@ -1,0 +1,17 @@
+[
+    {
+        "modid": "bless",
+        "name": "Bless",
+        "version": "0.1",
+        "description": "I can bless your server ~",
+        "authorList": [
+            "DIM"
+        ],
+        "dependencies": [
+            "spongeapi@7.1.0"
+        ],
+        "requiredMods": [
+            "spongeapi@7.1.0"
+        ]
+    }
+]
